@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<database-adapters>
+	<database-adapter>
+		<adapter-name>MySQLDatabaseAdapter</adapter-name>
+		<adapter-description>MySQL Database Adapter</adapter-description>
+		<adapter-usage>true</adapter-usage>
+	</database-adapter>
+	<database-adapter-mapping>
+		<adapter-name>MySQLDatabaseAdapter</adapter-name>
+		<adapter-class>/AnimusORM/adapters/MySQLDatabaseAdapter.class.php</adapter-class>
+	</database-adapter-mapping>
+</database-adapters>
+
